@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coder-gagan
 - 👀 Technology is a vast ocean, I am imperfect yet adventurous as Captain Jack Sparrow
-- 🌱 I’m currently learning Spring Cloud
-- 💞️ I’m looking to collaborate on ... nothing yet!
+- 🌱 I’m currently doing hands-on on untouched aspects of Spring Cloud
+- 💞️ I’m looking to collaborate on... nothing yet!
 - 📫 Email: dfgagan555@gmail.com
 LinkedIn: www.linkedin.com/in/gagandeep-lall
 
