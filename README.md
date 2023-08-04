@@ -2,8 +2,7 @@
 - 👀 Technology is a vast ocean, I am imperfect yet adventurous as Captain Jack Sparrow
 - 🌱 I’m currently learning Spring Cloud
 - 💞️ I’m looking to collaborate on ... nothing yet!
-- 📫 How to reach me:
-email: dfgagan555@gmail.com
+- 📫 Email: dfgagan555@gmail.com
 LinkedIn: www.linkedin.com/in/gagandeep-lall
 
 <!---
