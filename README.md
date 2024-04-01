@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coder-gagan
-- 👀 Technology is a vast ocean, I am imperfect yet adventurous as Captain Jack Sparrow
+- 👀 In the ever-expansive ocean of technology, I am imperfect yet adventurous like Captain Jack Sparrow
 - 🌱 I’m currently doing hands-on on personally untouched aspects of Spring Cloud and Data Engineering
 - 💞️ I’m looking to collaborate on... nothing yet!
 - 📫 Email: dfgagan555@gmail.com
